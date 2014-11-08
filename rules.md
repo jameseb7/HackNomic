@@ -109,7 +109,7 @@ This rule takes precedence over every other rule determining the winner.
 Eligible voters may abstain from votes and this does not count either for or against the motion being voted on.
 
 ### Rule 304
-All rules, proposals and results of votes must be made known to all players within a reasonable time.
+All information on the current state of the game must be made known to all players within a reasonable time.
 
 ### Rule 306
 The game shall have an Online State which shall be 'true' or 'false'. The Online State is initially 'false'. When the Online State is 'true', the game is considered to be a computer game, otherwise it is not.
