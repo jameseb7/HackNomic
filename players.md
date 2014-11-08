@@ -6,5 +6,5 @@
 | Barry             | -6    |
 | Michael/barrucadu | 1     |
 | Alfie/Alfie275    | 5     |
-| Ed/SeldomBucket   | 0     |
+| Ed/SeldomBucket   | 6     |
 | James/jameseb     | 0     |
