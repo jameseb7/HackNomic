@@ -79,11 +79,6 @@ When a proposed rule-change is defeated, the player who proposed it loses 10 poi
 ### Rule 207
 Each player always has exactly one vote.
 
-### Rule 208
-The winner is the first player to achieve 100 (positive) points.
-
-In mail and computer games, the winner is the first player to achieve 200 (positive) points.
-
 ### Rule 209
 At no time may there be more than 25 mutable rules. 
 
