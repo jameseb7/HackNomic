@@ -1,4 +1,4 @@
-# Rule-change 306
+# Rule-change 307
 
 Proposed by Nathan/Taneb
 

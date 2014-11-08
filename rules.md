@@ -120,3 +120,6 @@ All rules, proposals and results of votes must be made known to all players with
 
 ### Rule 306
 The game shall have an Online State which shall be 'true' or 'false'. The Online State is initially 'false'. When the Online State is 'true', the game is considered to be a computer game, otherwise it is not.
+
+### Rule 308
+There is an ordered list of all current player names and associated game data.
