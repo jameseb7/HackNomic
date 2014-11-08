@@ -116,3 +116,6 @@ The game shall have an Online State which shall be 'true' or 'false'. The Online
 
 ### Rule 308
 There is an ordered list of all current player names and associated game data.
+
+### Rule 312
+The name of this game shall be HackNomic.

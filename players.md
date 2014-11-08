@@ -2,8 +2,8 @@
 
 | Player name       | Score |
 |-------------------|-------|
-| Nathan/Taneb      | 29    |
-| Barry             | 9     |
+| Nathan/Taneb      | 39    |
+| Barry             | 19    |
 | Michael/barrucadu | 15    |
 | Alfie/Alfie275    | -5    |
 | Ed/SeldomBucket   | 16    |
