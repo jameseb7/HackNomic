@@ -2,7 +2,7 @@
 
 | Player name       | Score |
 |-------------------|-------|
-| Nathan/Taneb      | 0     |
+| Nathan/Taneb      | 3     |
 | Barry             | 0     |
 | Michael/barrucadu | 0     |
 | Alfie/Alfie275    | 0     |
