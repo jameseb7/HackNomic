@@ -114,3 +114,6 @@ This rule takes precedence over every other rule determining the winner.
 
 ### Rule 303
 Eligible voters may abstain from votes and this does not count either for or against the motion being voted on.
+
+### Rule 304
+All rules, proposals and results of votes must be made known to all players within a reasonable time.
