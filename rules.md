@@ -57,9 +57,7 @@ Whatever is not prohibited or regulated by a rule is permitted and unregulated, 
 ## Mutable Rules
 
 ### Rule 201
-Players shall alternate in clockwise order, taking one whole turn apiece. Turns may not be skipped or passed, and parts of turns may not be omitted. All players begin with zero points.
-
-In mail and computer games, players shall alternate in alphabetical order by surname.
+Players shall alternate in the order that their names appear on the official list of players, taking one turn-part apiece in the order they are specified in the definition of a turn. A player must perform the same turn-part as the prior player unless they are the first player on the official list of players, in which case the player moves onto the next turn part.
 
 ### Rule 202
 One turn consists of two parts in this order: (1) proposing one rule-change and having it voted on, and (2) throwing one die once and adding the number of points on its face to one's score.
