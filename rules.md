@@ -71,7 +71,7 @@ A rule change is adopted if and only if the majority of non-abstention votes are
 If and when rule-changes can be adopted without unanimity, the players who vote against winning proposals shall receive 10 points each.
 
 ### Rule 205
-An adopted rule-change takes full effect at the moment of the completion of the vote that adopted it.
+An adopted rule change takes full effect at the moment of the completion of a vote that adopted it unless the text of the rule-change specifies that it takes effect at some specific later point.
 
 ### Rule 206
 When a proposed rule-change is defeated, the player who proposed it loses 10 points.
