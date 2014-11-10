@@ -2,7 +2,7 @@
 
 | Player name       | Score |
 |-------------------|-------|
-| Nathan/Taneb      | 41    |
+| Nathan/Taneb      | 51    |
 | Barry             | 21    |
 | Michael/barrucadu | 15    |
 | Alfie/Alfie275    | -11   |
