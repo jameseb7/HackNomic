@@ -60,7 +60,7 @@ Whatever is not prohibited or regulated by a rule is permitted and unregulated, 
 Players shall alternate in the order that their names appear on the official list of players, taking one turn-part apiece in the order they are specified in the definition of a turn. A player must perform the same turn-part as the prior player unless they are the first player on the official list of players, in which case the player moves onto the next turn part.
 
 ### Rule 202
-One turn consists of two parts in this order: (1) proposing one rule-change and having it voted on, and (2) throwing one die once and adding the number of points on its face to one's score.
+One turn consists of a number of parts in ths order: 1) proposing one rule-change; 2) having it voted on; 3) throwing one die once and adding the number of points on its face to one's score.
 
 In mail and computer games, instead of throwing a die, players subtract 291 from the ordinal number of their proposal and multiply the result by the fraction of favorable votes it received, rounded to the nearest integer. (This yields a number between 0 and 10 for the first player, with the upper limit increasing by one each turn; more points are awarded for more popular proposals.)
 
