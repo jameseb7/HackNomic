@@ -119,3 +119,6 @@ There is an ordered list of all current player names and associated game data.
 
 ### Rule 312
 The name of this game shall be HackNomic.
+
+### Rule 318
+The Online State of the game is 'true'.
