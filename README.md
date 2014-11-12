@@ -3,6 +3,6 @@ HackNomic
 
 A repository to track the game state of HackNomic
 
-It is currently Turn 4, Part 1 and Ed/SeldomBucket is next to propose a rule-change.
+It is currently Turn 4, Part 2 and voting is happening on [rule-change 319](https://github.com/jameseb7/HackNomic/blob/master/rule-changes/rule-change-319.md).
 
 The current official list of players is [here](https://github.com/jameseb7/HackNomic/blob/master/players.md) and the current rules are [here](https://github.com/jameseb7/HackNomic/blob/master/rules.md).
