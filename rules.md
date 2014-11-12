@@ -54,6 +54,9 @@ Rule-changes that affect rules needed to allow or apply rule-changes are as perm
 ### Rule 116
 Whatever is not prohibited or regulated by a rule is permitted and unregulated, with the sole exception of changing the rules, which is permitted only when a rule or set of rules explicitly or implicitly permits it.
 
+### Rule 304
+All information on the current state of the game must be made known to all players within a reasonable time.
+
 ## Mutable Rules
 
 ### Rule 201
@@ -107,9 +110,6 @@ This rule takes precedence over every other rule determining the winner.
 
 ### Rule 303
 Eligible voters may abstain from votes and this does not count either for or against the motion being voted on.
-
-### Rule 304
-All information on the current state of the game must be made known to all players within a reasonable time.
 
 ### Rule 306
 The game shall have an Online State which shall be 'true' or 'false'. The Online State is initially 'false'. When the Online State is 'true', the game is considered to be a computer game, otherwise it is not.
