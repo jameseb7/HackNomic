@@ -11,7 +11,9 @@ Make rule 312 immutable
 | Player            | Vote    |
 |-------------------|---------|
 | Nathan/Taneb      | For     |
-| Barry             |         |
+| Barry             | Against |
 | Michael/barrucadu | Against |
-| Alfie/Alfie275    |         |
+| Alfie/Alfie275    | For     |
 | James/jameseb     | For     |
+
+*Passed*

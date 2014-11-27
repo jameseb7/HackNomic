@@ -57,6 +57,9 @@ Whatever is not prohibited or regulated by a rule is permitted and unregulated, 
 ### Rule 304
 All information on the current state of the game must be made known to all players within a reasonable time.
 
+### Rule 312
+The name of this game shall be HackNomic.
+
 ## Mutable Rules
 
 ### Rule 201
@@ -117,9 +120,6 @@ The game shall have an Online State which shall be 'true' or 'false'. The Online
 
 ### Rule 308
 There is an ordered list of all current player names and associated game data.
-
-### Rule 312
-The name of this game shall be HackNomic.
 
 ### Rule 318
 The Online State of the game is 'true'.
