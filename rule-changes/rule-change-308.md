@@ -2,9 +2,7 @@
 
 Proposed by Barry
 
-```
-New rule - "There is an ordered list of all current player names and associated game data."
-```
+> New rule - "There is an ordered list of all current player names and associated game data."
 
 ## Votes
 

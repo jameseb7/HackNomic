@@ -2,9 +2,7 @@
 
 Proposed by James/jameseb
 
-```
-New rule - "The name of this game shall be HackNomic."
-```
+> New rule - "The name of this game shall be HackNomic."
 
 ## Votes
 

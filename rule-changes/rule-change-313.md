@@ -2,9 +2,7 @@
 
 Proposed by Nathan/Taneb
 
-```
-Amend rule 205 to state "An adopted rule change takes full effect at the moment of the completion of a vote that adopted it unless the text of the rule-change specifies that it takes effect at some specific later point."
-```
+> Amend rule 205 to state "An adopted rule change takes full effect at the moment of the completion of a vote that adopted it unless the text of the rule-change specifies that it takes effect at some specific later point."
 
 ## Votes
 

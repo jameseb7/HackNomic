@@ -2,9 +2,7 @@
 
 Proposed by Barry
 
-```
-Amend rule 207 by adding "Players with an 'a' in their name have 2 votes each."
-```
+> Amend rule 207 by adding "Players with an 'a' in their name have 2 votes each."
 
 ## Votes
 

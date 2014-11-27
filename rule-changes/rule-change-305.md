@@ -2,9 +2,7 @@
 
 Proposed by Ed/SeldomBucket
 
-```
-Amend rule 203 to "A rule change is adopted if and only if the majority of non-abstention votes are in favour of the rule change."
-```
+> Amend rule 203 to "A rule change is adopted if and only if the majority of non-abstention votes are in favour of the rule change."
 
 ## Votes
 

@@ -2,9 +2,7 @@
 
 Proposed by James/jameseb
 
-```
-New rule - "The Online State of the game is 'true'."
-```
+> New rule - "The Online State of the game is 'true'."
 
 ## Votes
 

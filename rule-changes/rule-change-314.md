@@ -2,9 +2,7 @@
 
 Proposed by Barry
 
-```
-Amend rule 304 to "All information on the current state of the game must be made known to all players within a reasonable time."
-```
+> Amend rule 304 to "All information on the current state of the game must be made known to all players within a reasonable time."
 
 ## Votes
 

@@ -2,9 +2,7 @@
 
 Proposed by James/jameseb
 
-```
-New rule - "The game shall have an Online State which shall be 'true' or 'false'. The Online State is initially 'false'. When the Online State is 'true', the game is considered to be a computer game, otherwise it is not."
-```
+> New rule - "The game shall have an Online State which shall be 'true' or 'false'. The Online State is initially 'false'. When the Online State is 'true', the game is considered to be a computer game, otherwise it is not."
 
 ## Votes
 

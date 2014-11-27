@@ -2,9 +2,7 @@
 
 Proposed by Nathan/Taneb
 
-```
-Repeal rule 210
-```
+> Repeal rule 210
 
 ## Votes
 

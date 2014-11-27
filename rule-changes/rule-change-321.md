@@ -2,9 +2,7 @@
 
 Proposed by Michael/barrucadu
 
-```
-Amend rule 204 to "One turn consists of a number of parts in this order: 1) proposing one rule-change; 2) having it voted on"
-```
+> Amend rule 204 to "One turn consists of a number of parts in this order: 1) proposing one rule-change; 2) having it voted on"
 
 ## Votes
 

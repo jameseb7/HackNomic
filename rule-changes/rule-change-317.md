@@ -2,9 +2,7 @@
 
 Proposed by Ed/SeldomBucket
 
-```
-Amend rule 204 to "Non-abstaining voters with votes that do not match the majority vote shall gain 10 points."
-```
+> Amend rule 204 to "Non-abstaining voters with votes that do not match the majority vote shall gain 10 points."
 
 ## Votes
 

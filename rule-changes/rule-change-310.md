@@ -2,9 +2,7 @@
 
 Proposed by Alfie/Alfie275
 
-```
-Repeal rule 209
-```
+> Repeal rule 209
 
 ## Votes
 

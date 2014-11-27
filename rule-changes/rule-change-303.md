@@ -2,9 +2,7 @@
 
 Proposed by Michael/barrucadu
 
-```
-New rule - "Eligible voters may abstain from votes and this does not count either for or against the motion being voted on."
-```
+> New rule - "Eligible voters may abstain from votes and this does not count either for or against the motion being voted on."
 
 ## Votes
 

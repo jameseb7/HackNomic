@@ -2,9 +2,7 @@
 
 Proposed by Ed/SeldomBucket
 
-```
-Repeal rule 208
-```
+> Repeal rule 208
 
 ## Votes
 

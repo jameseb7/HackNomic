@@ -2,9 +2,7 @@
 
 Proposed by Nathan/Taneb
 
-```
-New rule - "All players must be paid members of HackSoc."
-```
+> New rule - "All players must be paid members of HackSoc."
 
 ## Votes
 

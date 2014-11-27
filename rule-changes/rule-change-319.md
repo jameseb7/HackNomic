@@ -2,9 +2,7 @@
 
 Proposed by Nathan/Taneb
 
-```
-Make rule 304 immutable
-```
+> Make rule 304 immutable
 
 ## Votes
 

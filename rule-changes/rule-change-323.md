@@ -2,9 +2,7 @@
 
 Proposed by James/jameseb
 
-```
-Make rule 312 immutable
-```
+> Make rule 312 immutable
 
 ## Votes
 

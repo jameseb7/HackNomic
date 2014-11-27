@@ -2,9 +2,7 @@
 
 Proposed by Alfie/Alfie275
 
-```
-New rule - "All rules, proposals and results of votes must be made known to all players within a reasonable time."
-```
+> New rule - "All rules, proposals and results of votes must be made known to all players within a reasonable time."
 
 ## Votes
 
